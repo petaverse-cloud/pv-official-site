@@ -1,28 +1,28 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://petaverse.cloud/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'Petaverse'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.webp"
+logo = "assets/img/logo.png"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
+address = "Suite 302, 15 Help Street, Chatswood, NSW 2067, AU"
+email = "biz@verse4.pet"
 phone = "123456"
 
 # Socials
 
 twitter = "#"
 facebook = "#"
-github = "https://github.com/akatiggerx04/graysx-hugo"
+github = "https://github.com/orgs/petaverse-cloud"
 
 # Other
 
 # Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
-sbtoken = "TOKEN_HERE"
+sbtoken = "4cc8158f-0a1c-4347-af73-29f76c5e8ca2"
 
 ## Menu Items
 [menu]
@@ -32,7 +32,7 @@ sbtoken = "TOKEN_HERE"
   weight = 1
 
   [[menu.main]]
-  name = "Projects"
+  name = "Smart Devices"
   URL = "#projects"
   weight = 2
 

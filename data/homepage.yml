@@ -1,10 +1,10 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "The Metaverse for Pets" # Title Text
+    description : "Comming Soon ..." # Title Desc
     button:
-      text: "Learn More" # Button Text
+      text: "Subscribe" # Button Text
       url: "#about" # Button URL
 
 # About
