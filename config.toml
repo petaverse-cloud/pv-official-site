@@ -1,0 +1,4 @@
+baseURL = 'https://petaverse.cloud'
+languageCode = 'en-us'
+title = 'Petaverse'
+theme = 'ananke'
