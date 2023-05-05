@@ -6,7 +6,7 @@ main:
     button:
       text: "Subscribe" # Button Text
       url: "#signup" # Button URL
-    image: "assets/img/bg-woman_with_dog.png" # Background Image
+    image: "assets/img/bg-woman_with_dog.jpg" # Background Image
 
 # About
 about:
