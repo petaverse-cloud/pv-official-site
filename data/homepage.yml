@@ -13,3 +13,17 @@ about:
   title: "About us"
   desc: "At Petaverse, we believe that pets deserve the best possible care and attention. That's why we've developed a range of smart devices that help you keep your furry friends happy, healthy, and safe. From activity trackers that help you monitor your pet's exercise levels, to smart feeding bowls that ensure your pet always has access to fresh food and water, our devices are designed to make pet ownership easier and more enjoyable than ever before."
   image: "assets/img/team.png"
+
+projects:
+  card1:
+    title: "Hero Intro"
+    text: "At Petaverse, we're passionate about providing pet owners with the best possible tools to care for their furry friends. That's why we've worked tirelessly to create smart collar tracker and feeder that are both reliable and user-friendly, making it easy for pet owners to keep their pets safe, happy and with best nutrition at all times. "
+    img: "assets/img/bg-hero.jpg"
+  card2:
+    title: "Petacollar"
+    text: "Petacollar is the ultimate solution for pet owners who want to keep their furry friends safe and secure at all times. Our smart collar tracker is designed to give you peace of mind by providing real-time location tracking, activity monitoring, and more. With Petacollar, you can easily track your pet's whereabouts using our user-friendly mobile app, which allows you to set up virtual boundaries and receive alerts when your pet strays too far. You can also monitor your pet's activity levels even heart rates and get insights into their behavior, helping you ensure that they're getting the exercise and stimulation they need to stay healthy and happy. But that's not all – Petacollar also comes with a range of advanced features that make it the most versatile and reliable smart collar tracker on the market. Our device is waterproof and shock-resistant, ensuring that it can withstand even the most rugged outdoor adventures. It also features long-lasting battery life, so you can stay connected with your pet for days or even weeks at a time without worrying about recharging. Try Petacollar today and discover the peace of mind that comes with knowing your pet is always within reach."
+    img: "assets/img/bg-dogermann.jpg"
+  card3:
+    title: "Petafeeder"
+    text: "Introducing Petafeeder, a perfect solution for busy pet owners who want to ensure their beloved friends always have access to fresh, nutritious food. Say goodbye to the hassle of manual feeding and let Petafeeder do the work for you! Our smart food feeder device is designed with both you and your pet in mind. With the Petaverse mobile app, you can easily schedule automatic feedings for your pet, ensuring they receive the right amount of food at the right time, even when you're not at home. Plus, with portion control, you can manage your pet's weight and prevent overeating, keeping them healthy and happy. But that's not all – Petafeeder is packed with advanced features that make it the most versatile and reliable smart food feeder on the market. Our device is compatible with a variety of pet foods, including wet and dry options, and can be customized to suit your pet's unique dietary needs. Plus, with its sleek and modern design, Petafeeder seamlessly integrates into any home decor. Try Petafeeder today and see the difference it can make in your pet's life!"
+    img: "assets/img/bg-feeder.jpg"
