@@ -2,7 +2,7 @@
 main:
   header:
     title : "The Metaverse for Pets" # Title Text
-    description : "COMMING SOON ..." # Title Desc
+    description : "Your Pet, Our Passion." # Title Desc
     button:
       text: "Subscribe" # Button Text
       url: "#signup" # Button URL
@@ -10,14 +10,14 @@ main:
 
 # About
 about:
-  title: "About us"
-  desc: "At Petaverse, we believe that pets deserve the best possible care and attention. That's why we've developed a range of smart devices that help you keep your furry friends happy, healthy, and safe. From activity trackers that help you monitor your pet's exercise levels, to smart feeding bowls that ensure your pet always has access to fresh food and water, our devices are designed to make pet ownership easier and more enjoyable than ever before."
+  title: "About Petaverse"
+  desc: "Welcome to Petaverse, where our devotion to pets is at the heart of everything we do. Headquartered in the vibrant city of Singapore, Petaverse is the driving force behind a family of brands dedicated to enhancing the lives of both pets and their loving human companions."
   image: "assets/img/team.png"
 
 projects:
   card1:
-    title: "Hero Intro"
-    text: "At Petaverse, we're passionate about providing pet owners with the best possible tools to care for their furry friends. That's why we've worked tirelessly to create smart collar tracker and feeder that are both reliable and user-friendly, making it easy for pet owners to keep their pets safe, happy and with best nutrition at all times. "
+    title: "Our Mission"
+    text: "At Petaverse, we're on a mission to foster stronger, healthier relationships between pets and their families. We believe that technology, when harnessed responsibly and compassionately, can be a powerful tool for pet wellness and care. Our suite of innovative products and services is designed to empower pet parents with knowledge, convenience, and peace of mind."
     img: "assets/img/bg-hero.jpg"
   card2:
     title: "Petacollar"
